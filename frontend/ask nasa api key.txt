@@ -1,0 +1,6 @@
+https://api.nasa.gov/planetary/apod?api_key=K0MJpOeTPsxjaUPo1CB7yH0Van29TD91Dik8fygQ
+
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+
+Account Email: gyulaidavid@gmail.com
+Account ID: f4628bf7-e664-41ba-8f19-d633e74264c
